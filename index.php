@@ -26,6 +26,12 @@ while (list($val) = each($simpleArray) {
 }
 ?>
 	</b></p>
+
+	<ul>
+		<li>oh crap</li>
+		<li>what the heck</li>
+		<li>happened!</li>
+	</ul>
 	
 
 </body>
